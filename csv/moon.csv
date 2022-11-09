@@ -1,0 +1,46 @@
+﻿name,astronomer,discover_year,semimajor_axis,period,diameter,mass,density,planet_name
+Moon,,,384,27.32,3476,735,3.3,Earth
+Phobos,Hall,1877,9.4,0.32,23,6,2,Mars
+Deimos,Hall,1877,23.5,1.26,13,15,1.7,Mars
+Amalthea,Barnard,1892,181,0.5,200,,,Jupiter
+Thebe,Voyager,1979,222,0.67,90,,,Jupiter
+Io,Galileo,1610,422,1.77,3630,894,3.6,Jupiter
+Europa,Galileo,1610,671,3.55,3138,480,3,Jupiter
+Ganymede,Galileo,1610,1070,7.16,5262,1482,1.9,Jupiter
+Callisto,Galileo,1610,1883,16.69,4800,1077,1.9,Jupiter
+Himalia,Perrine,1904,11460,251,170,,,Jupiter
+Pan,Voyager,1985,133.6,0.58,20,25,,Saturn
+Atlas,Voyager,1980,137.7,0.6,40,,,Saturn
+Prometheus,Voyager,1980,139.4,0.61,80,,,Saturn
+Pandora,Voyager,1980,141.7,0.63,100,,,Saturn
+Janus,Dollfus,1966,151.4,0.69,190,,,Saturn
+Epimetheus,"Fountain, Larson ",1980,151.4,0.69,120,,,Saturn
+Mimas,Herschel,1789,186,0.94,394,0.4,1.2,Saturn
+Enceladus,Herschel,1789,238,1.37,502,0.8,1.2,Saturn
+Tethys,Cassini,1684,295,1.89,1048,7.5,1.3,Saturn
+Dione,Cassini,1684,377,2.74,1120,11,1.3,Saturn
+Rhea,Cassini,1672,527,4.52,1530,25,1.3,Saturn
+Titan,Huygens,1655,1222,15.95,5150,1346,1.9,Saturn
+Hyperion,"Bond, Lassell ",1848,1481,21.3,270,,,Saturn
+Iapetus,Cassini,1671,3561,79.3,1435,19,1.2,Saturn
+Phoebe,Pickering,1898,12950,550,220,,,Saturn
+Puck,Voyager,1985,86,0.76,170,,,Uranus
+Miranda,Kuiper,1948,130,1.41,485,0.8,1.3,Uranus
+Ariel,Lassell,1851,191,2.52,1160,13,1.6,Uranus
+Umbriel,Lassell,1851,266,4.14,1190,13,1.4,Uranus
+Titania,Herschel,1787,436,8.71,1610,35,1.6,Uranus
+Oberon,Herschel,1787,583,13.5,1550,29,1.5,Uranus
+Despina,Voyager,1989,53,0.33,150,,,Neptune
+Galatea,Voyager,1989,62,0.4,150,,,Neptune
+Larissa,Voyager,1989,118,1.12,400,,,Neptune
+Triton,Lassell,1846,355,5.88,2720,220,2.1,Neptune
+Nereid,Kuiper,1949,5511,360,340,,,Neptune
+Charon,Christy,1978,19.7,6.39,1200,,1.7,Pluto
+Styx,Showalter et al,2012,42,20,20,,,Pluto
+Nix,Weaver et al,2005,48,24,46,,2.1,Pluto
+Kerberos,Showalter et al,2011,58,24,28,,1.4,Pluto
+Hydra,Weaver et al,2005,65,38,61,,0.8,Pluto
+Dysnomea,Brown et al,2005,38,16,684,,,Eris
+(MK2),Parker et al,2016,,,160,,,Makemake
+Hi’iaka,Brown et al,2005,50,49,400,,,Haumea
+Namaka,Brown et al,2005,39,35,200,,,Haumea
