@@ -545,7 +545,7 @@ INSERT INTO moon (name,astronomer,discover_year,semimajor_axis,period,diameter,m
 ('Kerberos','Showalter et al',2011,58,24,28,'',1.4,'Pluto'),
 ('Hydra','Weaver et al',2005,65,38,61,'',0.8,'Pluto'),
 ('Dysnomea','Brown et al',2005,38,16,684,'','','Eris'),
-('(MK2)','Parker et al',2016,0,0.0galaxy,160,0.0,0.0,'Makemake'),
+('(MK2)','Parker et al',2016,0,0.0,160,0.0,0.0,'Makemake'),
 ('Hi’iaka','Brown et al',2005,50,49,400,'','','Haumea'),
 ('Namaka','Brown et al',2005,39,35,200,'','','Haumea');
 
