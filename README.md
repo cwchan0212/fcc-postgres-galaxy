@@ -93,7 +93,7 @@ ALTER TABLE planet DROP CONSTRAINT fk_star;
 ALTER TABLE galaxy rename column id to galaxy_id;
 ```
 
-### Add back CONSTRAINT FOREIGN KEY
+#### Add back CONSTRAINT FOREIGN KEY
 ```sql
 ALTER TABLE star ADD CONSTRAINT fk_star_galaxy FOREIGN KEY (galaxy_id) REFERENCES galaxy (galaxy_id);
 ALTER TABLE moon ADD CONSTRAINT fk_moon_planet FOREIGN KEY (planet_id) REFERENCES planet (planet_id);
