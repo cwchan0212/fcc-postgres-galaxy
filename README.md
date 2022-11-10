@@ -7,9 +7,9 @@
 
 For this project, you need to log in to PostgreSQL with psql to create your database. Do that by entering psql --username=freecodecamp --dbname=postgres in the terminal. Make all the tests below pass to complete the project. Be sure to get creative, and have fun!
 
-**Don't forget to connect to your database after you create it** 😄
+</code>Don't forget to connect to your database after you create it</code> 😄
 
-Here's some ideas for other column and table names: <code>description, has_life, is_spherical, age_in_millions_of_years, planet_types, galaxy_types, distance_from_earth</code>.
+Here's some ideas for other column and table names: <code>description</code> , <code>has_life</code> , <code>is_spherical</code> , <code>age_in_millions_of_years</code> , <code>planet_types</code> , <code>galaxy_types</code> , <code>distance_from_earth</code>.
 
 #### Notes:
 
@@ -19,51 +19,51 @@ If you are saving your progress on freeCodeCamp.org, after getting all the tests
 
 #### Complete the tasks below
 
-1. You should create a database named **universe**
+1. You should create a database named <code>universe</code>
 
-1. Be sure to connect to your database with **\c universe**. Then, you should add tables named **galaxy**, **star**, **planet**, and **moon**
+1. Be sure to connect to your database with <code>\c universe</code>. Then, you should add tables named <code>galaxy</code>, <code>star</code>, <code>planet</code>, and <code>moon</code>
 
 1. Each table should have a primary key
 
 1. Each primary key should automatically increment
 
-1. Each table should have a **name** column
+1. Each table should have a <code>name</code> column
 
-1. You should use the **INT** data type for at least two columns that are not a primary or foreign key
+1. You should use the <code>INT</code> data type for at least two columns that are not a primary or foreign key
 
-1. You should use the **NUMERIC** data type at least once
+1. You should use the <code>NUMERIC</code> data type at least once
 
-1. You should use the **TEXT** data type at least once
+1. You should use the <code>TEXT</code> data type at least once
 
-1. You should use the **BOOLEAN** data type on at least two columns
+1. You should use the <code>BOOLEAN</code> data type on at least two columns
 
-1. Each "star" should have a foreign key that references one of the rows in **galaxy**
+1. Each "star" should have a foreign key that references one of the rows in <code>galaxy</code>
 
-1. Each "planet" should have a foreign key that references one of the rows in **star**
+1. Each "planet" should have a foreign key that references one of the rows in <code>star</code>
 
-1. Each "moon" should have a foreign key that references one of the rows in **planet**
+1. Each "moon" should have a foreign key that references one of the rows in <code>planet</code>
 
 1. Your database should have at least five tables
 
 1. Each table should have at least three rows
 
-1. The **galaxy** and **star** tables should each have at least six rows
+1. The <code>galaxy</code> and <code>star</code> tables should each have at least six rows
 
-1. The **planet** table should have at least 12 rows
+1. The <code>planet</code> table should have at least 12 rows
 
-1. The **moon** table should have at least 20 rows
+1. The <code>moon</code> table should have at least 20 rows
 
 1. Each table should have at least three columns
 
-1. The **galaxy**, **star**, **planet**, and **moon** tables should each have at least five columns
+1. The <code>galaxy</code>, <code>star</code>, <code>planet</code>, and <code>moon</code> tables should each have at least five columns
 
-1. At least two columns per table should not accept **NULL** values
+1. At least two columns per table should not accept <code>NULL</code> values
 
-1. At least one column from each table should be required to be **UNIQUE**
+1. At least one column from each table should be required to be <code>UNIQUE</code>
 
-1. All columns named **name** should be of type **VARCHAR**
+1. All columns named <code>name</code> should be of type <code>VARCHAR</code>
 
-1. Each primary key column should follow the naming convention **table_name_id**. For example, the **moon** table should have a primary key column named **moon_id**
+1. Each primary key column should follow the naming convention <code>table_name_id</code>. For example, the <code>moon</code> table should have a primary key column named <code>moon_id</code>
 
 1. Each foreign key column should have the same name as the column it is referencing
 
